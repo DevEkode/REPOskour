@@ -20,6 +20,7 @@ jobs:
           name: REPOskour # the name of the package
           version: ${{ github.ref_name }} # Use the tag as the package version
           community: repo
+          repo: thunderstore.io
           categories: | # <-- notice this pipe character
             modpacks
           deps: |
