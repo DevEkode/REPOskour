@@ -1,0 +1,26 @@
+name: Publish Mod
+
+# Run when a new tag is pushed (ie. via GitHub release or `git tag`)
+on: 
+  push:
+    tags:
+      - '*'
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      # Use checkout to publish the files in your repo
+      - uses: actions/checkout@v4
+      - uses: GreenTF/upload-thunderstore-package@v4.3
+        with:
+          namespace: Ekode # the thunderstore 'team' to publish under
+          description: 'R.E.P.O Modpack with all the funnies'
+          token: ${{ secrets.THUNDERSTORE_SECRET_TOKEN }}
+          name: REPOskour # the name of the package
+          version: ${{ github.ref_name }} # Use the tag as the package version
+          community: repo
+          categories: | # <-- notice this pipe character
+            modpacks
+          deps: |
+            BepInEx-BepInExPack@5.4.2100
