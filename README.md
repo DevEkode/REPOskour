@@ -10,6 +10,7 @@ R.E.P.O Modpack with all the funnies
 - [Deeproot Garden](https://thunderstore.io/c/repo/p/Beaniebe/Deeproot_Garden/)
 - [MinecraftStrongholdLevel](https://thunderstore.io/c/repo/p/AriIcedT/MinecraftStrongholdLevel/)
 - [Tolian Levels](https://thunderstore.io/c/repo/p/Tolian/Tolian_Levels/)
+- [Wesleys Levels](https://thunderstore.io/c/repo/p/Magic_Wesley/Wesleys_Levels/)
 
 ## Multiplayer
 
@@ -28,6 +29,7 @@ R.E.P.O Modpack with all the funnies
 - [BoomboxCart](https://thunderstore.io/c/repo/p/ColtG5/BoomboxCart/)
 - [MikuMikuBeamer](https://thunderstore.io/c/repo/p/WhalesAllAround/MikuMikuBeamer/)
 - [LePoissonSteveMenuMusic](https://thunderstore.io/c/repo/p/brookethecook/LePoissonSteveMenuMusic/)
+- [WiiShopChannelMusic](https://thunderstore.io/c/repo/p/FluxTeam/WiiShopChannelMusic/)
 
 ## QOL (Quality Of Life)
 
@@ -112,3 +114,4 @@ R.E.P.O Modpack with all the funnies
 
 - [BepInEx Faster Load AssetBundles Patcher](https://thunderstore.io/c/repo/p/DiFFoZ/BepInEx_Faster_Load_AssetBundles_Patcher/)
 - [REPODiscordRichPresence](https://thunderstore.io/c/repo/p/Tolian/REPODiscordRichPresence/)
+- [GamblingMachine](https://thunderstore.io/c/repo/p/Lluciocc/GamblingMachine/)
