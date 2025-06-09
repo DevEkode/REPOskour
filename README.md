@@ -11,6 +11,8 @@ R.E.P.O Modpack with all the funnies
 - [MinecraftStrongholdLevel](https://thunderstore.io/c/repo/p/AriIcedT/MinecraftStrongholdLevel/)
 - [Tolian Levels](https://thunderstore.io/c/repo/p/Tolian/Tolian_Levels/)
 - [Wesleys Levels](https://thunderstore.io/c/repo/p/Magic_Wesley/Wesleys_Levels/)
+- [Minecraft Village](https://thunderstore.io/c/repo/p/Venture_Fearless/Minecraft_Village/)
+- [Minecraft Twilight Forest](https://thunderstore.io/c/repo/p/Custard_Crew/Minecraft_Twilight_Forest/)
 
 ## Multiplayer
 
