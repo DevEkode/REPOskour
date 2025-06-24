@@ -13,6 +13,7 @@ R.E.P.O Modpack with all the funnies
 - [Wesleys Levels](https://thunderstore.io/c/repo/p/Magic_Wesley/Wesleys_Levels/)
 - [Minecraft Village](https://thunderstore.io/c/repo/p/Venture_Fearless/Minecraft_Village/)
 - [Minecraft Twilight Forest](https://thunderstore.io/c/repo/p/Custard_Crew/Minecraft_Twilight_Forest/)
+- [Backrooms](https://thunderstore.io/c/repo/p/Rogue/Backrooms/)
 
 ## Multiplayer
 
@@ -32,6 +33,9 @@ R.E.P.O Modpack with all the funnies
 - [MikuMikuBeamer](https://thunderstore.io/c/repo/p/WhalesAllAround/MikuMikuBeamer/)
 - [LePoissonSteveMenuMusic](https://thunderstore.io/c/repo/p/brookethecook/LePoissonSteveMenuMusic/)
 - [WiiShopChannelMusic](https://thunderstore.io/c/repo/p/FluxTeam/WiiShopChannelMusic/)
+- [MeathookArena](https://thunderstore.io/c/repo/p/NiRkY/MeathookArena/)
+- [NounoursHunter](https://thunderstore.io/c/repo/p/Aquilios/NounoursHunter/)
+- [GangstaRobe](https://thunderstore.io/c/repo/p/NextLevel457/GangstaRobe/)
 
 ## QOL (Quality Of Life)
 
@@ -65,6 +69,7 @@ R.E.P.O Modpack with all the funnies
 - [HallowsRepoCosmetics](https://thunderstore.io/c/repo/p/HallowsMods/HallowsRepoCosmetics/)
 - [TigerFasion](https://thunderstore.io/c/repo/p/Tiger_Frog/TigerFasion/)
 - [MoreHeadUtilities](https://thunderstore.io/c/repo/p/Maygik/MoreHeadUtilities/)
+- [BudgetSolaire_DarkSouls](https://thunderstore.io/c/repo/p/GuiltX/BudgetSolaire_DarkSouls/)
 
 ## Valuables
 
@@ -94,6 +99,8 @@ R.E.P.O Modpack with all the funnies
 - [REPO Alchemy](https://thunderstore.io/c/repo/p/Lunoid/REPO_Alchemy/)
 - [MinecraftAdditions](https://thunderstore.io/c/repo/p/GreatColtini/MinecraftAdditions/)
 - [EnderPearlMod](https://thunderstore.io/c/repo/p/CarsonJF/EnderPearlMod/)
+- [FNAF2Valuables](https://thunderstore.io/c/repo/p/Unbe/FNAF2Valuables/)
+- [TeamFortress2Mod](https://thunderstore.io/c/repo/p/TheMedic/TeamFortress2Mod/)
 
 ## UI
 
