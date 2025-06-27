@@ -17,9 +17,7 @@ R.E.P.O Modpack with all the funnies
 
 ## Multiplayer
 
-- [MorePlayers](https://thunderstore.io/c/repo/p/zelofi/MorePlayers/)
 - [NoLimitChatbox](https://thunderstore.io/c/repo/p/nickklmao/NoLimitChatbox/)
-- [LateJoin](https://thunderstore.io/c/repo/p/Rebateman/LateJoin/)
 - [DeadTTS](https://thunderstore.io/c/repo/p/flipf17/DeadTTS/)
 - [MapVote](https://thunderstore.io/c/repo/p/Patrick/MapVote/)
 - [DeathHeadHopper](https://thunderstore.io/c/repo/p/Cronchy/DeathHeadHopper/)
@@ -82,7 +80,6 @@ R.E.P.O Modpack with all the funnies
 - [Food Valubles Pack](https://thunderstore.io/c/repo/p/AlexKuz/Food_Valubles_Pack/)
 - [Lethal Plushies](https://thunderstore.io/c/repo/p/Spoopylocal/Lethal_Plushies/)
 - [FunnyItems](https://thunderstore.io/c/repo/p/Ako/FunnyItems/)
-- [MoreValuablesUpgrade](https://thunderstore.io/c/repo/p/GalaxyMods/MoreValuablesUpgrade/)
 - [PokemonValuables](https://thunderstore.io/c/repo/p/Foop/PokemonValuables/)
 - [Pokeball Valuables](https://thunderstore.io/c/repo/p/Disciple/Pokeball_Valuables/)
 - [HSRCatCakes](https://thunderstore.io/c/repo/p/revsolo/HSRCatCakes/)
