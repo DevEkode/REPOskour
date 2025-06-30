@@ -24,14 +24,9 @@ jobs:
           categories: | # <-- notice this pipe character
             modpacks
           deps: |
-            OrtonLongGaming-FNAFLevel-1.0.2
-            Beaniebe-Deeproot_Garden@1.0.8
-            AriIcedT-MinecraftStrongholdLevel@1.6.0
-            Tolian-Tolian_Levels@0.2.0
-            Magic_Wesley-Wesleys_Levels@1.0.2
             Venture_Fearless-Minecraft_Village@1.0.1
-            Custard_Crew-Minecraft_Twilight_Forest@1.1.0
             Rogue-Backrooms@1.0.2
+            AriIcedT-MinecraftStrongholdLevel@1.6.0
 
             nickklmao-NoLimitChatbox@1.0.1
             flipf17-DeadTTS@1.0.10
