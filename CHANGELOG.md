@@ -10,7 +10,17 @@ Mods removed (Game won't load) :
 
 Disabled non updated levels for Museum update :
 - [Minecraft Twilight Forest](https://thunderstore.io/c/repo/p/Custard_Crew/Minecraft_Twilight_Forest/)
-- [FNAFLevel](https://thunderstore.io/c/repo/p/OrtonLongGaming/FNAFLevel/)
-- [Wesleys Levels](https://thunderstore.io/c/repo/p/Magic_Wesley/Wesleys_Levels/)
-- [Tolian Levels](https://thunderstore.io/c/repo/p/Tolian/Tolian_Levels/)
 - [Deeproot Garden](https://thunderstore.io/c/repo/p/Beaniebe/Deeproot_Garden/)
+
+# 0.1.2
+
+Re-enabled updated levels :
+- [Wesleys Levels](https://thunderstore.io/c/repo/p/Magic_Wesley/Wesleys_Levels/)
+- [FNAFLevel](https://thunderstore.io/c/repo/p/OrtonLongGaming/FNAFLevel/)
+- [Tolian Levels](https://thunderstore.io/c/repo/p/Tolian/Tolian_Levels/)
+
+Replaced TeamUpgrade by SyncUpgrades :
+- [SyncUpgrades](https://thunderstore.io/c/repo/p/TGO/SyncUpgrades/)
+
+Added Valuables :
+- [SillyValuables](https://thunderstore.io/c/repo/p/Sangrento/SillyValuables/)

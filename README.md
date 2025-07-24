@@ -6,14 +6,12 @@ R.E.P.O Modpack with all the funnies
 
 ## Levels
 
-- [FNAFLevel](https://thunderstore.io/c/repo/p/OrtonLongGaming/FNAFLevel/)
-- [Deeproot Garden](https://thunderstore.io/c/repo/p/Beaniebe/Deeproot_Garden/)
-- [MinecraftStrongholdLevel](https://thunderstore.io/c/repo/p/AriIcedT/MinecraftStrongholdLevel/)
-- [Tolian Levels](https://thunderstore.io/c/repo/p/Tolian/Tolian_Levels/)
-- [Wesleys Levels](https://thunderstore.io/c/repo/p/Magic_Wesley/Wesleys_Levels/)
 - [Minecraft Village](https://thunderstore.io/c/repo/p/Venture_Fearless/Minecraft_Village/)
-- [Minecraft Twilight Forest](https://thunderstore.io/c/repo/p/Custard_Crew/Minecraft_Twilight_Forest/)
 - [Backrooms](https://thunderstore.io/c/repo/p/Rogue/Backrooms/)
+- [MinecraftStrongholdLevel](https://thunderstore.io/c/repo/p/AriIcedT/MinecraftStrongholdLevel/)
+- [Wesleys Levels](https://thunderstore.io/c/repo/p/Magic_Wesley/Wesleys_Levels/)
+- [FNAFLevel](https://thunderstore.io/c/repo/p/OrtonLongGaming/FNAFLevel/)
+- [Tolian Levels](https://thunderstore.io/c/repo/p/Tolian/Tolian_Levels/)
 
 ## Multiplayer
 
@@ -45,7 +43,7 @@ R.E.P.O Modpack with all the funnies
 - [ScaleInCart](https://thunderstore.io/c/repo/p/BULLETBOT/ScaleInCart/)
 - [CartSpeedSync](https://thunderstore.io/c/repo/p/discjenny/CartSpeedSync/)
 - [Valuables Scanner](https://thunderstore.io/c/repo/p/Kistras/Valuables_Scanner/)
-- [TeamUpgrades](https://thunderstore.io/c/repo/p/EvilCheetah/TeamUpgrades/)
+- [SyncUpgrades](https://thunderstore.io/c/repo/p/TGO/SyncUpgrades/)
 
 ## Skins / player modifications
 
@@ -98,6 +96,7 @@ R.E.P.O Modpack with all the funnies
 - [EnderPearlMod](https://thunderstore.io/c/repo/p/CarsonJF/EnderPearlMod/)
 - [FNAF2Valuables](https://thunderstore.io/c/repo/p/Unbe/FNAF2Valuables/)
 - [TeamFortress2Mod](https://thunderstore.io/c/repo/p/TheMedic/TeamFortress2Mod/)
+- [SillyValuables](https://thunderstore.io/c/repo/p/Sangrento/SillyValuables/)
 
 ## UI
 
