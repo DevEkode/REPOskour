@@ -1,3 +1,8 @@
+# 0.2.0
+
+Compatibility for the new R.E.P.O Monster update (0.3.0) !  
+A lot of changed due to incompatibility : check issue #1
+
 # 0.1.0
 
 Compatibility for the new R.E.P.O Museum update !
