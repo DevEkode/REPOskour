@@ -1,3 +1,19 @@
+# 0.2.2
+
+Re-enabled all skins due thanks to MenuLib update !  
+And re-added :
+- [Deeproot Garden](https://thunderstore.io/c/repo/p/Beaniebe/Deeproot_Garden/)
+
+Added :
+- [REPOGambling](https://thunderstore.io/c/repo/p/DirtyGames/REPOGambling/)
+
+Removed :
+- Some mods incompatible after testing
+
+# 0.2.1
+
+Added missing changelog
+
 # 0.2.0
 
 Compatibility for the new R.E.P.O Monster update (0.3.0) !  

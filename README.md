@@ -7,11 +7,9 @@ R.E.P.O Modpack with all the funnies
 ## Levels
 
 - [Minecraft Village](https://thunderstore.io/c/repo/p/Venture_Fearless/Minecraft_Village/)
-- [Backrooms](https://thunderstore.io/c/repo/p/Rogue/Backrooms/)
-- [MinecraftStrongholdLevel](https://thunderstore.io/c/repo/p/AriIcedT/MinecraftStrongholdLevel/)
 - [Wesleys Levels](https://thunderstore.io/c/repo/p/Magic_Wesley/Wesleys_Levels/)
-- [FNAFLevel](https://thunderstore.io/c/repo/p/OrtonLongGaming/FNAFLevel/)
 - [Tolian Levels](https://thunderstore.io/c/repo/p/Tolian/Tolian_Levels/)
+- [Deeproot Garden](https://thunderstore.io/c/repo/p/Beaniebe/Deeproot_Garden/)
 
 ## Multiplayer
 
@@ -42,6 +40,28 @@ R.E.P.O Modpack with all the funnies
 - [Valuables Scanner](https://thunderstore.io/c/repo/p/Kistras/Valuables_Scanner/)
 - [SyncUpgrades](https://thunderstore.io/c/repo/p/TGO/SyncUpgrades/)
 
+## Skins / player modifications
+
+- [LargePupils](https://thunderstore.io/c/repo/p/BobisMods/LargePupils/)
+- [JustEnoughTops](https://thunderstore.io/c/repo/p/IPashkaYouNot/JustEnoughTops/)
+- [PookieCosmetics](https://thunderstore.io/c/repo/p/pooks/PookieCosmetics/)
+- [ServingKunt](https://thunderstore.io/c/repo/p/meowing/ServingKunt/)
+- [MoreHats EFT Accessories](https://thunderstore.io/c/repo/p/Ogurtsi/MoreHats_EFT_Accessories/)
+- [DECSbyPulse](https://thunderstore.io/c/repo/p/MonsterDropMods/DECSbyPulse/)
+- [MoreCuteness](https://thunderstore.io/c/repo/p/pierre/MoreCuteness/)
+- [StupidHead](https://thunderstore.io/c/repo/p/Nanalands/StupidHead/)
+- [Super Mario Cosmetics](https://thunderstore.io/c/repo/p/Sticks/Super_Mario_Cosmetics/)
+- [CustomGrabColor](https://thunderstore.io/c/repo/p/Enchanted_Games/CustomGrabColor/)
+- [ZoomyEyes](https://thunderstore.io/c/repo/p/Clementinise/ZoomyEyes/)
+- [CustomColors](https://thunderstore.io/c/repo/p/x753_REPO/CustomColors/)
+- [BensCosmetics](https://thunderstore.io/c/repo/p/Bengimi/BensCosmetics/)
+- [MoreHead](https://thunderstore.io/c/repo/p/YMC_MHZ/MoreHead/)
+- [MoreHeadPlus](https://thunderstore.io/c/repo/p/RESET/MoreHeadPlus/)
+- [HallowsRepoCosmetics](https://thunderstore.io/c/repo/p/HallowsMods/HallowsRepoCosmetics/)
+- [TigerFasion](https://thunderstore.io/c/repo/p/Tiger_Frog/TigerFasion/)
+- [MoreHeadUtilities](https://thunderstore.io/c/repo/p/Maygik/MoreHeadUtilities/)
+- [BudgetSolaire_DarkSouls](https://thunderstore.io/c/repo/p/GuiltX/BudgetSolaire_DarkSouls/)
+
 ## Valuables
 
 - [GloobMod](https://thunderstore.io/c/repo/p/DaGloobie/GloobMod/)
@@ -58,7 +78,6 @@ R.E.P.O Modpack with all the funnies
 - [MoreUpgrades](https://thunderstore.io/c/repo/p/BULLETBOT/MoreUpgrades/)
 - [Jake and Livs Retro Smashpack](https://thunderstore.io/c/repo/p/Jake_n_Liv/Jake_and_Livs_Retro_Smashpack/)
 - [SteampunkItems](https://thunderstore.io/c/repo/p/s1ckboy/SteampunkItems/)
-- [JBLSpeaker](https://thunderstore.io/c/repo/p/CarsonJF/JBLSpeaker/)
 - [LethalCompanyValuables](https://thunderstore.io/c/repo/p/Zehs/LethalCompanyValuables/)
 - [MinecraftAdditions](https://thunderstore.io/c/repo/p/GreatColtini/MinecraftAdditions/)
 - [FNAF2Valuables](https://thunderstore.io/c/repo/p/Unbe/FNAF2Valuables/)
@@ -83,3 +102,4 @@ R.E.P.O Modpack with all the funnies
 ## Misc
 
 - [BepInEx Faster Load AssetBundles Patcher](https://thunderstore.io/c/repo/p/DiFFoZ/BepInEx_Faster_Load_AssetBundles_Patcher/)
+- [REPOGambling](https://thunderstore.io/c/repo/p/DirtyGames/REPOGambling/)
