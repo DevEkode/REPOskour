@@ -1,3 +1,17 @@
+# 0.2.3
+
+- Added Levels :
+    - [Backrooms](https://thunderstore.io/c/repo/p/Rogue/Backrooms/)
+    - [Burpleson Base Level](https://thunderstore.io/c/repo/p/compraventa_de_facebook/Burpleson_Base_Level/)
+    - [TheFacility](https://thunderstore.io/c/repo/p/grey5525/TheFacility/)
+    - [Wesleys Manufacturer of Style](https://thunderstore.io/c/repo/p/Magic_Wesley/Wesleys_Manufacturer_of_Style/)
+
+- Added audio :
+    - [AnnoyingDogBarkPlus](https://thunderstore.io/c/repo/p/Robo_Eye/AnnoyingDogBarkPlus/)
+    - [AlanBeckerPack](https://thunderstore.io/c/repo/p/FriendGroupA/AlanBeckerPack/)
+
+- And removed list of mods from README.md
+
 # 0.2.2
 
 Re-enabled all skins due thanks to MenuLib update !  
