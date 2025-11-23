@@ -1,3 +1,8 @@
+# 0.2.4
+
+- Added Levels :
+    - [MinecraftStrongholdLevel](https://thunderstore.io/c/repo/p/AriIcedT/MinecraftStrongholdLevel/)
+
 # 0.2.3
 
 - Added Levels :
