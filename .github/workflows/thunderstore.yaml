@@ -28,7 +28,6 @@ jobs:
             Magic_Wesley-Wesleys_Levels@1.1.11
             Tolian-Tolian_Levels@0.2.7
             Beaniebe-Deeproot_Garden@1.1.8
-            Rogue-Backrooms@1.1.0
             compraventa_de_facebook-Burpleson_Base_Level@2.0.1
             grey5525-TheFacility@1.0.7
             Magic_Wesley-Wesleys_Manufacturer_of_Style@1.0.1
@@ -40,7 +39,6 @@ jobs:
             JacuJ-SillyWeaponSounds@1.0.1
             JacuJ-GnomedGnomeSounds@1.0.0
             ColtG5-LegoGnomes@1.0.2
-            ColtG5-BoomboxCart@1.1.1
             WhalesAllAround-MikuMikuBeamer@1.0.1
             brookethecook-LePoissonSteveMenuMusic@1.0.2
             FluxTeam-WiiShopChannelMusic@1.0.0
@@ -52,7 +50,7 @@ jobs:
             Zehs-ExtractionPointConfirmButton@1.1.0
             Flopper-ImprovedStamina@1.2.0
             ManancialGD-ChatClipboard@1.0.0
-            Snowlance-NoDamageInShop@1.0.1
+            HappyCats-NoDamageInShop@1.0.0
             BULLETBOT-ScaleInCart@1.1.8
             discjenny-CartSpeedSync@2.0.0
             Kistras-Valuables_Scanner@1.1.3
@@ -68,7 +66,6 @@ jobs:
             Sticks-Super_Mario_Cosmetics@2.3.1
             Enchanted_Games-CustomGrabColor@2.1.0
             Clementinise-ZoomyEyes@1.1.0
-            x753_REPO-CustomColors@1.1.1
             Bengimi-BensCosmetics@1.5.5
             YMC_MHZ-MoreHead@1.3.11
             RESET-MoreHeadPlus@1.8.5
@@ -92,7 +89,6 @@ jobs:
             Jake_n_Liv-Jake_and_Livs_Retro_Smashpack@1.1.8
             s1ckboy-SteampunkItems@1.1.1
             Zehs-LethalCompanyValuables@1.2.1
-            GreatColtini-MinecraftAdditions@1.0.7
             Unbe-FNAF2Valuables@1.2.1
             TheMedic-TeamFortress2Mod@1.0.0
             Sangrento-SillyValuables@6.5.3
@@ -105,10 +101,10 @@ jobs:
 
             AriIcedT-YippeeDuckEnemy@1.0.1
             Magic_Wesley-Wesleys_Enemies@1.1.9
-            ProjectSpheroid-BaldiEnemy@1.1.1
             Rudeus-Vacuum_Enemy@1.0.12
             eth9n-Mimic@1.1.6
             randomlygenerated-Mimic_Patcher-1.0.0
 
             DiFFoZ-BepInEx_Faster_Load_AssetBundles_Patcher@1.0.1
             DirtyGames-REPOGambling@1.6.0
+            MrBytesized-BetterTeamUpgrades@2.2.1
