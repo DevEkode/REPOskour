@@ -1,3 +1,21 @@
+# 0.3.0
+
+Compatibility for the new R.E.P.O The Cosmetic Update (0.4.0) ! 
+Added :
+- [BetterTeamUpgrades](https://thunderstore.io/c/repo/p/MrBytesized/BetterTeamUpgrades/)
+- [crazy forg](https://thunderstore.io/c/repo/p/kiwiiii/crazy_forg/)
+- [FnafPowerOutage](https://thunderstore.io/c/repo/p/Jean_and_Atom/FnafPowerOutage/)
+
+Removed :
+- [Backrooms](https://thunderstore.io/c/repo/p/Rogue/Backrooms/)
+- [BoomboxCart](https://thunderstore.io/c/repo/p/ColtG5/BoomboxCart/)
+- [CustomColors](https://thunderstore.io/c/repo/p/x753_REPO/CustomColors/)
+- [MinecraftAdditions](https://thunderstore.io/c/repo/p/GreatColtini/MinecraftAdditions/)
+- [BaldiEnemy](https://thunderstore.io/c/repo/p/ProjectSpheroid/BaldiEnemy/)
+
+Replaced :
+- [NoDamageInShop by Snowlance](https://thunderstore.io/c/repo/p/Snowlance/NoDamageInShop/) by [NoDamageInShop by HappyCats](https://thunderstore.io/c/repo/p/HappyCats/NoDamageInShop/)
+
 # 0.2.4
 
 - Added Levels :
